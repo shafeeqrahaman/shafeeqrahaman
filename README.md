@@ -12,6 +12,9 @@ Hello, I'm Shafeeq, a skilled Data Analyst known for my expertise in data manage
 * Proficient in Google BigQuery data warehousing for large-scale dataset handling.
 * Delivers actionable insights through a comprehensive approach to data analysis.
 
+📚 Projects
+Welcome to my portfolio, where I showcase my projects.
+
 🛠️ Tools
 * Language: SQL, Python
 * Database: Google BigQuery, PostgreSQL, MySQL, MSSQL, Oracle
