@@ -13,7 +13,7 @@ Hello, I'm Shafeeq, a skilled Data Analyst known for my expertise in data manage
 * Delivers actionable insights through a comprehensive approach to data analysis.
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/shafeeqrahaman/Portfolio-Guide).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/shafeeqrahaman/Portfolio-Guide)  (WORK IN PROGRESS).
 
 ### 🛠️ Tools
 * Language: SQL, Python
