@@ -12,6 +12,17 @@ Hello, I'm Shafeeq, a skilled Data Analyst known for my expertise in data manage
 * Proficient in Google BigQuery data warehousing for large-scale dataset handling.
 * Delivers actionable insights through a comprehensive approach to data analysis.
 
+🛠️ Tools
+* Language: SQL, Python
+* Database: Google BigQuery, PostgreSQL, MySQL, MSSQL, Oracle
+* Visualization: Tableau, Looker Studio
+* Automation: Google App Script, Google App Sheet
+* ETL: Funnel.io
+
+👋🏻 Connect with Me
+* [Linkedin](https://www.linkedin.com/in/shafeequrrahaman/)
+
+
 <!--
 **shafeeqrahaman/shafeeqrahaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
