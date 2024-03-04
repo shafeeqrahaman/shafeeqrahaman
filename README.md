@@ -8,7 +8,7 @@ Hello, I'm Shafeeq, a skilled Data Analyst known for my expertise in data manage
 * Excels in data analysis and reporting with Google Sheets and Excel.
 * Utilizes Google Apps Script for automation in Google Sheets.
 * Leverages Google App Sheet for user-friendly applications and streamlined data tasks.
-* Integrates funnel.io for optimized data flow and enhanced analytical efficiency.
+* Integrates funnel.io tool for optimized data flow and enhanced analytical efficiency.
 * Proficient in Google BigQuery data warehousing for large-scale dataset handling.
 * Delivers actionable insights through a comprehensive approach to data analysis.
 
