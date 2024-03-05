@@ -1,5 +1,6 @@
 ### About Me! 🙋
-<img width="1376" alt="Screenshot 2024-03-03 at 9 08 02 PM" src="https://github.com/shafeeqrahaman/shafeeqrahaman/assets/29007691/abd15f15-59e1-4d16-bc64-e85fefbccb49">
+![Screenshot 2024-03-04 at 4 50 49 PM](https://github.com/shafeeqrahaman/shafeeqrahaman/assets/29007691/d896ea1d-96ad-4427-a612-90746cbf8c08)
+
 
 Hello, I'm Shafeeq, a skilled Data Analyst known for my expertise in data management and analysis. Here's a snapshot of my key capabilities:
 
